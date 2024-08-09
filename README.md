@@ -1,2 +1,2 @@
 # projeto-front
-Esse é meu segundo projeto com HTML é CSS ! Estou bastante satisfeito com o resultado porém tenho muito que melhorar.
+No meu projeto front-end, foquei em praticar e aprimorar minhas habilidades em HTML e CSS. Criei uma interface visual, estruturando o conteúdo com HTML e estilizando-o com CSS. Trabalhei em layouts e efeitos visuais para reforçar meu domínio dessas tecnologias fundamentais para a construção de websites.
